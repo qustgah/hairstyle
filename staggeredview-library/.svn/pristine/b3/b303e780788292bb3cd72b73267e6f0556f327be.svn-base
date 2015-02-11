@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="E:\my_projects\work_projects\56\staggeredview-library\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="E:\my_projects\work_projects\56\staggeredview-library\build-types\release\assets" />
+    </dataSet>
+
+</merger>

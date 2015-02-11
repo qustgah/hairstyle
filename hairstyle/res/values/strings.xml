@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">Hairstyle</string>
+    <string name="pull_to_refresh_pull_label">push to refresh…</string>
+    <string name="pull_to_refresh_release_label">pull to refresh …</string>
+    <string name="pull_to_refresh_refreshing_label">Loading  …</string>
+    <string name="draweropen">open</string>
+    <string name="drawerclose">close</string>
+    <string name="backforward">return</string>
+    <string name="collection">collect</string> 
+    <string name="localimg">localImage</string> 
+    <string name="collect_success">Bookmarked</string> 
+    <string name="collect_exists">Collection already exists</string>
+    <string name="load_pic">Picture Download</string>
+    <string name="load_success">Downloaded successfully</string>
+    <string name="share">share</string> 
+    <string name="share_pic">Hey, send you a picture</string>
+    <string name="delete_pic">Confirm delete pictures?</string>
+    <string name="ok">OK</string>
+    <string name="clear">Remove All</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_load_pic">Failed to load the picture !</string>
+    <string name="delete_all">Be sure to clear all favorites pictures?</string>
+    
+    <string name="ad_unit_id">ca-app-pub-4224141881686186/1174070551</string>
+  
+    <!--首页大分类-->
+    <string name="kind_localload"> </string>
+    <string name="kind_collection"> </string>
+    <string name="kind_duanfa"> </string>
+    <string name="kind_changfa"> </string>
+    <string name="kind_juanfa"> </string>
+    <string name="kind_mawei"> </string>
+    <string name="kind_ranfa"> </string>
+    <string name="kind_bianfa"> </string>
+    <!--  -->
+</resources>
